@@ -48,5 +48,7 @@ Linguist Steven Pinker takes an analytical approach to writing in this style gui
 ### Good Plain English: The problem with writing manuals 
 Nat Segnit discusses six books about writing. Nat gives some entertaining examples, some focused on contemporary American politics. http://harpers.org/archive/2017/03/good-plain-english/
 
-
+### Technical Writing / Types of User Documentation
+A Wikiversity article on technical documentation starting with process and system requirments' documentation to the user documentation.
+https://en.wikiversity.org/wiki/Technical_writing/Types_of_User_Documentation
 
