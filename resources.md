@@ -24,8 +24,24 @@ To write a good document, certain factors need to be considered. This article pr
 https://technicalwritingtoolbox.com/2012/05/17/top-3-serial-killers-of-a-good-document/
 
 ### Writing – Copyrights and Trademarks Protect You 
-This article by Marilyn Schwader addresses significance of Copyrights and Trademarks in Writing. When most people consider writing a book, they don’t think about Trademarks. However, this article highly recommends that you leverage your writing for multiple purposes, and that’s why registering a Trademark for your concept is a good idea
+This article by Marilyn Schwader addresses significance of Copyrights and Trademarks in Writing. When most people consider writing a book, they don’t think about Trademarks. However, this article highly recommends that you leverage your writing for multiple purposes, and that’s why registering a Trademark for your concept is a good idea.
 https://ezinearticles.com/?Writing---Copyrights-and-Trademarks-Protect-You&id=6959
+
+### Improving the Appearance of your Technical Document
+This article helps technical writers to create visually appealing technical documents.
+http://www.cypressmedia.net/articles/article/15/improving_the_appearance_of_your_technical_document
+
+### Succeeding as a Technical Writer
+This article by Michael Knowles addresses the practice of efficient, effective, and sanely writing in high-stress environments.
+https://www.writing-world.com/tech/tech1.shtml
+
+### Strategies to Succeed in Technical Writing
+This article includes a series of free online tech writing lessons for writing a technical manual.
+http://www.school-for-champions.com/techwriting.htm
+
+### Technical Writing Tips
+This article by Matthew Arnold Stern focuses on ten useful tips on technical writing.
+http://www.matthewarnoldstern.com/writing/techwritingtips.html
 
 ## Books
 
@@ -33,7 +49,7 @@ https://ezinearticles.com/?Writing---Copyrights-and-Trademarks-Protect-You&id=69
 Zinsser describes writing as a craft, comparing it to carpentry. He focuses on teaching you how to edit, claiming that first drafts are never good. The earlier chapters provide general writing and editing advice, while the later ones are topic-specific and cover travel writing, technical writing, memoir writing, etc. 
 
 ### 'Trees, maps and theorems' by Jean-luc Doumont 
-Documont runs training courses on scientific and technical communication. His book, subtitled 'Effective communication for rational minds', is aimed at technical people who want detailed and practical advice about how to communicate clearly. It does this in a highly structured way with plenty of examples. Later chapters also give advice on presentations, graphical displays and posters. It's also an obsessively edited book. Each minimalist double-page spread has one column of body text and three other columns for common questions, illustrations and examples –– and if you look closely you'll see that the paragraphs have been tweaked to be perfectly rectangular. 
+Doumont runs training courses on scientific and technical communication. His book, subtitled 'Effective communication for rational minds', is aimed at technical people who want detailed and practical advice about how to communicate clearly. It does this in a highly structured way with plenty of examples. Later chapters also give advice on presentations, graphical displays and posters. It's also an obsessively edited book. Each minimalist double-page spread has one column of body text and three other columns for common questions, illustrations and examples –– and if you look closely you'll see that the paragraphs have been tweaked to be perfectly rectangular. 
 
 ### 'Style: Toward Clarity and Grace' by Joseph M. Williams
 A slightly older book but still very worth a read. William's strength lies in identifying and naming what it is about difficult sentences that actually makes them difficult for humans to parse. The book starts at the level of individual sentences, walks through plenty of examples of how to polish them for maximal clarity, and later moves onto showing how to build coherent paragraphs and larger bits of text. 
