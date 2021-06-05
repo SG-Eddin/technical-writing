@@ -15,13 +15,25 @@ This is an interesting, but not that useful, collection of essays about writing 
 ### Writers Stack Exchange, The 'rules' of writing
 A crowd-sourced list of axioms and rules of writing, along with descriptions, thoughts, and examples. You can find the whole list at [https://writers.stackexchange.com/questions/761/the-rules-of-writing](https://writers.stackexchange.com/questions/761/the-rules-of-writing)
 
+### Ethics of Technical Publishing:Trust Yourself
+Ethics is mandatory in Technical Publishing. This article provides you a look into the ethic side of technical publishing and writing. This article also addresses you how to handle a situation such as how can you trust, what do you do when you are confronted with an unethical boss, co-worker, or assignment.
+https://www.writerswrite.com/journal/mar02/delm.htm
+
+### Top 3 Serial Killers of a Good Document
+To write a good document, certain factors need to be considered. This article provides you a look at the top three factors that kill a good document.
+https://technicalwritingtoolbox.com/2012/05/17/top-3-serial-killers-of-a-good-document/
+
+### Writing – Copyrights and Trademarks Protect You 
+This article by Marilyn Schwader addresses significance of Copyrights and Trademarks in Writing. When most people consider writing a book, they don’t think about Trademarks. However, this article highly recommends that you leverage your writing for multiple purposes, and that’s why registering a Trademark for your concept is a good idea
+https://ezinearticles.com/?Writing---Copyrights-and-Trademarks-Protect-You&id=6959
+
 ## Books
 
 ### 'On Writing Well: The Classic Guide to Writing Nonfiction' by William Zinsser
 Zinsser describes writing as a craft, comparing it to carpentry. He focuses on teaching you how to edit, claiming that first drafts are never good. The earlier chapters provide general writing and editing advice, while the later ones are topic-specific and cover travel writing, technical writing, memoir writing, etc. 
 
 ### 'Trees, maps and theorems' by Jean-luc Doumont 
-Doumont runs training courses on scientific and technical communication. His book, subtitled 'Effective communication for rational minds', is aimed at technical people who want detailed and practical advice about how to communicate clearly. It does this in a highly structured way with plenty of examples. Later chapters also give advice on presentations, graphical displays and posters. It's also an obsessively edited book. Each minimalist double-page spread has one column of body text and three other columns for common questions, illustrations and examples –– and if you look closely you'll see that the paragraphs have been tweaked to be perfectly rectangular. 
+Documont runs training courses on scientific and technical communication. His book, subtitled 'Effective communication for rational minds', is aimed at technical people who want detailed and practical advice about how to communicate clearly. It does this in a highly structured way with plenty of examples. Later chapters also give advice on presentations, graphical displays and posters. It's also an obsessively edited book. Each minimalist double-page spread has one column of body text and three other columns for common questions, illustrations and examples –– and if you look closely you'll see that the paragraphs have been tweaked to be perfectly rectangular. 
 
 ### 'Style: Toward Clarity and Grace' by Joseph M. Williams
 A slightly older book but still very worth a read. William's strength lies in identifying and naming what it is about difficult sentences that actually makes them difficult for humans to parse. The book starts at the level of individual sentences, walks through plenty of examples of how to polish them for maximal clarity, and later moves onto showing how to build coherent paragraphs and larger bits of text. 
