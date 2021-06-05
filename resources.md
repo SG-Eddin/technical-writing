@@ -15,6 +15,34 @@ This is an interesting, but not that useful, collection of essays about writing 
 ### Writers Stack Exchange, The 'rules' of writing
 A crowd-sourced list of axioms and rules of writing, along with descriptions, thoughts, and examples. You can find the whole list at [https://writers.stackexchange.com/questions/761/the-rules-of-writing](https://writers.stackexchange.com/questions/761/the-rules-of-writing)
 
+### Ethics of Technical Publishing:Trust Yourself
+Ethics is mandatory in Technical Publishing. This article provides you a look into the ethic side of technical publishing and writing. This article also addresses you how to handle a situation such as how can you trust, what do you do when you are confronted with an unethical boss, co-worker, or assignment.
+https://www.writerswrite.com/journal/mar02/delm.htm
+
+### Top 3 Serial Killers of a Good Document
+To write a good document, certain factors need to be considered. This article provides you a look at the top three factors that kill a good document.
+https://technicalwritingtoolbox.com/2012/05/17/top-3-serial-killers-of-a-good-document/
+
+### Writing – Copyrights and Trademarks Protect You 
+This article by Marilyn Schwader addresses significance of Copyrights and Trademarks in Writing. When most people consider writing a book, they don’t think about Trademarks. However, this article highly recommends that you leverage your writing for multiple purposes, and that’s why registering a Trademark for your concept is a good idea.
+https://ezinearticles.com/?Writing---Copyrights-and-Trademarks-Protect-You&id=6959
+
+### Improving the Appearance of your Technical Document
+This article helps technical writers to create visually appealing technical documents.
+http://www.cypressmedia.net/articles/article/15/improving_the_appearance_of_your_technical_document
+
+### Succeeding as a Technical Writer
+This article by Michael Knowles addresses the practice of efficient, effective, and sanely writing in high-stress environments.
+https://www.writing-world.com/tech/tech1.shtml
+
+### Strategies to Succeed in Technical Writing
+This article includes a series of free online tech writing lessons for writing a technical manual.
+http://www.school-for-champions.com/techwriting.htm
+
+### Technical Writing Tips
+This article by Matthew Arnold Stern focuses on ten useful tips on technical writing.
+http://www.matthewarnoldstern.com/writing/techwritingtips.html
+
 ## Books
 
 ### 'On Writing Well: The Classic Guide to Writing Nonfiction' by William Zinsser
